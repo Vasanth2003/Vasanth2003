@@ -24,7 +24,7 @@
 ---
 
 ## 📫 Let’s Connect:  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pon-vasanth-s)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pon-vasanth-s-/)  
 - 🌐 [Portfolio](https://my-portfolio-bx9g.vercel.app/)
 
 
