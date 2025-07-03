@@ -15,12 +15,9 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 ---
-
-## Upcoming Project:
-🚀 Building an innovative startup website, combining entrepreneurial passion with cutting-edge features for business leaders.
-
 
 ## 📫 Let’s Connect:  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pon-vasanth-s-/)  
