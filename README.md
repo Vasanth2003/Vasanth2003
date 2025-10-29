@@ -1,8 +1,3 @@
-Absolutely, Vaas 😎 — let’s polish and modernize your GitHub/portfolio “About Me” section so it reflects your **current skill set**, **professional tone**, and **developer identity** as a **MERN Full Stack Developer** who’s also expanding into **Flutter, automation, and AI-based solutions**.
-
-Here’s your **framed and enhanced version** 👇
-
----
 
 # 👋 Hey, I'm **Pon Vasanth S**
 
@@ -59,11 +54,3 @@ I enjoy mentoring and collaborating with developers, always focusing on **clean 
 * 🌐 [Portfolio](https://my-portfolio-bx9g.vercel.app/)
 * 💬 Open for collaboration on MERN or Flutter projects
 
----
-
-🎯 *Always learning. Always building. Always growing.*
-
----
-
-Would you like me to make this more **GitHub README-styled** (with emojis, centered layout, and animated badges)?
-I can make it look stunning and ready to paste directly into your GitHub profile.
